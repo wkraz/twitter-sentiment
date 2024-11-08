@@ -1,7 +1,9 @@
 # Tweet Sentiment Tool
 
 ## Usage
-First, install dependencies
+First, clone the repository
+
+Next, install dependencies
 ```
 pip install -r requirements.txt
 ```
